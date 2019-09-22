@@ -22,7 +22,7 @@ Package: com.yourepo.hamzassl.apptools
 Name: AppTools
 Version: 1.5.1
 Description: Administration of all through which you can access to files and applications, cleaning applications and a lot
-Author: aReo <ipahamza@gmail.com>
+Author: hamzaipa <ipahamza@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Size: 441292
