@@ -1,0 +1,38 @@
+Package: com.yourepo.hamzassl.callbarxsios12crak
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Architecture: iphoneos-arm
+Version: 2.2-5
+Size: 336508
+Filename: ./debs/com.yourepo.hamzassl.callbarxsios12crak_2.2-5_iphoneos-arm.deb
+MD5sum: ebd5ee8959359044221f7660387d8860
+SHA1: 3ce9d87245d31a206cd63289fce23f9ad159d37c
+SHA256: 0f8ceee5d06006473094758039e013ab57391e10a6fcd1e37cd2bda23b939de0
+Tag: purpose::extension
+Depiction: https://hamzassl.yourepo.com/cydia/depiction/callbarxsios12crak
+SileoDepiction: https://hamzassl.yourepo.com/sileo/depiction/callbarxsios12crak
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Description: Don't let incoming calls interrupt you!
+Name: CallBar XS (iOS 12)
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: com.yourepo.hamzassl.apptools
+Name: AppTools 
+Version: 1.5.1
+Description: Administration of all through which you can access to files and applications, cleaning applications and a lot
+Author: aReo <ipahamza@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Size: 441420 
+Md5sum: a6b83de4e0607dd572d2f1778bfb9be1
+SHA1: 25f6b3a6856e3af738044dec00bb80b390de9e0b
+SHA256: 96ffc6042428daaaa4b729d3a7e79abd83e01e367b500491270ad8a41aa7cde9
+Tag: purpose::extension
+Depiction: https://hamzaipa.github.io/sh/cydia/depiction/apptools
+SileoDepiction: https://hamzassl.yourepo.com/sileo/depiction/apptools
+Filename: ‏./debs/apptools_1.5.1.deb
+Maintainer: hAmzaipa <ipahamza@gmail.com>
+Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
+
