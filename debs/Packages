@@ -1,0 +1,16 @@
+Package:com.hamzaipa.AppTools
+Name: AppTools 
+Version: 1.5.1
+Description: Administration of all through which you can access to files and applications, cleaning applications and a lot
+Author: aReo <ipahamza@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Size: 610166
+Md5sum: a9e55418a07aa50a4a572c046eafd847
+SHA256: b4e8284fc6bf59446f1f0a20e559bd63c05ae57e44729d16f4c6f54004fbb829
+Tag: purpose::extension
+Depiction: https://hamzaipa.github.io/sh/sileo/depiction/apptools
+SileoDepiction: https://hamzaipa.github.io/sh/ sileo/depiction/apptools
+Filename: debs/apptools1.5.1_iphoneos-arm.deb
+Maintainer: hAmzaipa <ipahamza@gmail.com>
+Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
