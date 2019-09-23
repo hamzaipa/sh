@@ -18,20 +18,27 @@ Name: CallBar XS (iOS 12)
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 Author: Elias Limneos <limneoselias@gmail.com>
 
-Package: com.yourepo.hamzassl.apptools
-Name: AppTools
+Package: com.flex2areo.apptools
 Version: 1.5.1
-Description: Administration of all through which you can access to files and applications, cleaning applications and a lot
-Author: aReo <ipahamza@gmail.com>
 Section: Tweaks
+Maintainer: hamzaipa <bigboss@thebigboss.org>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Size: 441292
-Md5sum: 06956a7cd7253fbb82876086458151cf
-SHA1: 7665da5ae5e86339ac067713ac8e919a78772ba8
-SHA256: 7665da5ae5e86339ac067713ac8e919a78772ba8
-Tag: purpose::extension
-Depiction:  https://hamzaipa.github.io/sh/cydia/depiction/apptools
-SileoDepiction: https://hamzaipa.github.io/sh/sileo/depiction/apptools
-Filename: ./debs/com.yourepo.hamzassl.apptools_1.5.1_iphoneos-arm.deb
-Maintainer: hAmzaipa <ipahamza@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.flex2areo.apptools_1.5.1_iphoneos-arm.deb
+Size: 610292
+Installed-Size: 1613
+MD5sum: a6b83de4e0607dd572d2f1778bfb9be1
+SHA256: 60e95035a4a96137c0a3ebd2e864aa2b879b13cdbef59bb4ec14cb9cb4f3781b
+Name: AppTools
 Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
+Description: 一款图标增强工具
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: aReo <minikissbye@foxmail.com>
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apptoolsDp
+dev: areo
+homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apptoolsDp
+
+thebigboss.org (http://thebigboss.org/)
+iPhone News, Apps Reviews &  Jailbreaking
+iPhone iOS News by the BigBoss covers iphone Apps, App Reviews, Jailbreak Apps, Guides, the most recent Jailbreaks for your iphone, ipad and ipod. Your comprehensive iphone news and jailbreak area for all things IOS.
